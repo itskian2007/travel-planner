@@ -1,7 +1,10 @@
-# Virtual Environment
+# Virtual Environments
 venv/
 .venv/
 env/
+**/venv/
+**/.venv/
+**/env/
 
 # Python cache
 __pycache__/
@@ -10,17 +13,28 @@ __pycache__/
 *.pyd
 *.sqlite3
 *.db
+**/__pycache__/
 
 # Node.js
-frontend/node_modules/
-frontend/build/
+node_modules/
+**/node_modules/
+build/
+**/build/
 .npm
 npm-debug.log*
 
 # Environment secrets
 .env
 .env.local
+**/.env
+**/.env.local
 
 # IDE
 .vscode/
 .idea/
+
+# Temp build html
+docs_html/
+sample_test.*
+py_test.*
+test_print.*

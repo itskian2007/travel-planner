@@ -88,7 +88,7 @@ DOCUMENTS = [
 EDGE_PATH = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 BASE_DIR = r"C:\Travel-planner"
 HTML_DIR = os.path.join(BASE_DIR, "docs_html")
-DOCS_DIR = os.path.join(BASE_DIR, "docs")
+DOCS_DIR = BASE_DIR
 
 def build_all_pdfs():
     os.makedirs(HTML_DIR, exist_ok=True)
