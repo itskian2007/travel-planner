@@ -1,0 +1,2842 @@
+[
+  {
+    "source": "destinations_db",
+    "city": "tokyo",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sunrise Coffee & Secret Meiji Jingu Forest Walk",
+    "location_name": "Meiji Jingu & Fuglen Tokyo",
+    "search_query": "Meiji Jingu & Fuglen Tokyo tokyo",
+    "current_url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "tokyo",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Vintage Archive Thrifting & Record Hunting",
+    "location_name": "Shimokitazawa South Exit Alleys (New York Joe Exchange, Chicago, Garage)",
+    "search_query": "Shimokitazawa South Exit Alleys (New York Joe Exchange, Chicago, Garage) tokyo",
+    "current_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "tokyo",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Shibuya Sky Sunset Glass Cantilever Observation Deck",
+    "location_name": "Shibuya Scramble Square 47F",
+    "search_query": "Shibuya Scramble Square 47F tokyo",
+    "current_url": "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "tokyo",
+    "day": 1,
+    "slot_idx": 3,
+    "activity_name": "Omoide Yokocho (Memory Lane) Lantern Alley Izakaya Crawl",
+    "location_name": "Omoide Yokocho & Golden Gai Bar Micro-Alleys",
+    "search_query": "Omoide Yokocho & Golden Gai Bar Micro-Alleys tokyo",
+    "current_url": "https://images.unsplash.com/photo-1554797589-7241bb691973?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bali",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sunrise Stroll Through Tegallalang Emerald Rice Terraces",
+    "location_name": "Tegallalang Terraced Valley & Kawi Coffee",
+    "search_query": "Tegallalang Terraced Valley & Kawi Coffee bali",
+    "current_url": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bali",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Hidden Sunbeam Cave Waterfall Expedition",
+    "location_name": "Tukad Cepung Waterfall",
+    "search_query": "Tukad Cepung Waterfall bali",
+    "current_url": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bali",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Cretya Ubud Tiered Jungle Infinity Pools & DJ Lounge",
+    "location_name": "Cretya Ubud at Alas Harum",
+    "search_query": "Cretya Ubud at Alas Harum bali",
+    "current_url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bali",
+    "day": 1,
+    "slot_idx": 3,
+    "activity_name": "Traditional Balinese Suckling Pig & Fire Dance",
+    "location_name": "Ubud Palace Fire Dance & Ibu Oka Babi Guling",
+    "search_query": "Ubud Palace Fire Dance & Ibu Oka Babi Guling bali",
+    "current_url": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "rome",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Aventine Keyhole Secret & Fragrant Orange Grove Panorama",
+    "location_name": "Piazza dei Cavalieri di Malta & Giardino degli Aranci",
+    "search_query": "Piazza dei Cavalieri di Malta & Giardino degli Aranci rome",
+    "current_url": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "rome",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Trastevere Bohemian Ivy Alleys & Trapizzino Pocket Pizza",
+    "location_name": "Vicolo del Cinque, Piazza Santa Maria & Trapizzino",
+    "search_query": "Vicolo del Cinque, Piazza Santa Maria & Trapizzino rome",
+    "current_url": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "rome",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Villa Borghese Lake Rowboats & Pincio Sunset Terrace",
+    "location_name": "Laghetto di Villa Borghese & Terrazza del Pincio",
+    "search_query": "Laghetto di Villa Borghese & Terrazza del Pincio rome",
+    "current_url": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "paris",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "Pistachio Escargot Pastry & Secret Jardin du Palais-Royal",
+    "location_name": "Du Pain et des Id\u00e9es & Palais-Royal Courtyard",
+    "search_query": "Du Pain et des Id\u00e9es & Palais-Royal Courtyard paris",
+    "current_url": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "paris",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Passages Couverts Secret 19th-Century Glass Arcades",
+    "location_name": "Passage des Panoramas, Galerie Vivienne & Passage Jouffroy",
+    "search_query": "Passage des Panoramas, Galerie Vivienne & Passage Jouffroy paris",
+    "current_url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "paris",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Sunset Natural Wine & Baguette Picnic on Canal Saint-Martin",
+    "location_name": "Quai de Valmy & Iron Footbridges",
+    "search_query": "Quai de Valmy & Iron Footbridges paris",
+    "current_url": "https://images.unsplash.com/photo-1520939817895-060bdef4ad1b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "iceland",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Walk Behind the Cascading Veil of Seljalandsfoss",
+    "location_name": "Seljalandsfoss & Glj\u00fafrab\u00fai Hidden Canyon Falls",
+    "search_query": "Seljalandsfoss & Glj\u00fafrab\u00fai Hidden Canyon Falls iceland",
+    "current_url": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "iceland",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "S\u00f3lheimaj\u00f6kull Blue Ice Glacier Hike & Crevasse Exploration",
+    "location_name": "S\u00f3lheimaj\u00f6kull Glacier Tongue",
+    "search_query": "S\u00f3lheimaj\u00f6kull Glacier Tongue iceland",
+    "current_url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "iceland",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Reynisfjara Black Sand Beach & Basalt Columns",
+    "location_name": "Reynisfjara Beach & Reynisdrangar Sea Stacks",
+    "search_query": "Reynisfjara Beach & Reynisdrangar Sea Stacks iceland",
+    "current_url": "https://images.unsplash.com/photo-1529963183134-61a90db47eaf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "swiss alps",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Staubbach Waterfall Stroll & Alpine Chalet Meadow Walk",
+    "location_name": "Lauterbrunnen Valley & Staubbach Falls",
+    "search_query": "Lauterbrunnen Valley & Staubbach Falls swiss alps",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "swiss alps",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Car-Free M\u00fcrren Cliff Walk & Paraglider Launch Overlook",
+    "location_name": "M\u00fcrren Village & Allmendhubel",
+    "search_query": "M\u00fcrren Village & Allmendhubel swiss alps",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "swiss alps",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Bubbling Gruy\u00e8re Cheese Fondue by the Open Log Fire",
+    "location_name": "Hotel Oberland Fondue St\u00fcbli",
+    "search_query": "Hotel Oberland Fondue St\u00fcbli swiss alps",
+    "current_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "kyoto",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Dawn Stroll Through Whispering Arashiyama Bamboo Grove",
+    "location_name": "Arashiyama Bamboo Grove & Okochi Sanso Villa",
+    "search_query": "Arashiyama Bamboo Grove & Okochi Sanso Villa kyoto",
+    "current_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "kyoto",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Tenryu-ji Temple Sogenchi Pond & Zen Reflections",
+    "location_name": "Tenryu-ji Temple & Kosoan Teahouse",
+    "search_query": "Tenryu-ji Temple & Kosoan Teahouse kyoto",
+    "current_url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "kyoto",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Pontocho Narrow Lantern Alley Kawayuka Dining",
+    "location_name": "Pontocho Alley & Kamo River Veranda",
+    "search_query": "Pontocho Alley & Kamo River Veranda kyoto",
+    "current_url": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "barcelona",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sagrada Fam\u00edlia Stained Glass Light Symphony",
+    "location_name": "Bas\u00edlica de la Sagrada Fam\u00edlia",
+    "search_query": "Bas\u00edlica de la Sagrada Fam\u00edlia barcelona",
+    "current_url": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "barcelona",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Gothic Quarter Secret Courtyards & El Born Tapas Crawl",
+    "location_name": "Pla\u00e7a del Rei, El Born & Santa Maria del Mar",
+    "search_query": "Pla\u00e7a del Rei, El Born & Santa Maria del Mar barcelona",
+    "current_url": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "barcelona",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Bogatell Beach Sunset Swim & Mediterranean Paella",
+    "location_name": "Bogatell Beach & Xiringuito Escrib\u00e0",
+    "search_query": "Bogatell Beach & Xiringuito Escrib\u00e0 barcelona",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bangkok",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Wat Arun Temple of Dawn Morning Porcelain Ascent",
+    "location_name": "Wat Arun (Temple of Dawn)",
+    "search_query": "Wat Arun (Temple of Dawn) bangkok",
+    "current_url": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bangkok",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Yaowarat Chinatown Tuk-Tuk Street Food Sizzle",
+    "location_name": "Yaowarat Road (Chinatown)",
+    "search_query": "Yaowarat Road (Chinatown) bangkok",
+    "current_url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "bangkok",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Tichuca 46th-Floor Jungle Rooftop & Glowing Jellyfish Bar",
+    "location_name": "Tichuca Rooftop Bar at T-One Building",
+    "search_query": "Tichuca Rooftop Bar at T-One Building bangkok",
+    "current_url": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "dubai",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Museum of the Future Aerodynamic Torus Exploration",
+    "location_name": "Museum of the Future",
+    "search_query": "Museum of the Future dubai",
+    "current_url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "dubai",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "1-Dirham Abra Ride Across Dubai Creek & Spice Souk",
+    "location_name": "Dubai Creek Abra Station & Deira Spice Souk",
+    "search_query": "Dubai Creek Abra Station & Deira Spice Souk dubai",
+    "current_url": "https://images.unsplash.com/photo-1546412414-e1885259563a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "dubai",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Golden Hour Red Sand Desert Dune Bashing & Starlit Campfire",
+    "location_name": "Lahbab Red Dunes Desert",
+    "search_query": "Lahbab Red Dunes Desert dubai",
+    "current_url": "https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "seoul",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Gyeongbokgung Palace Royal Guard Hanbok Morning",
+    "location_name": "Gyeongbokgung Palace & Hyangwonjeong Pavilion",
+    "search_query": "Gyeongbokgung Palace & Hyangwonjeong Pavilion seoul",
+    "current_url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "seoul",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Seongsu-dong 'Brooklyn of Seoul' Industrial Cafe & Streetwear Vaults",
+    "location_name": "Cafe Onion Seongsu, Daelim Changgo & Tamburins Flagship",
+    "search_query": "Cafe Onion Seongsu, Daelim Changgo & Tamburins Flagship seoul",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "seoul",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Yeouido Han River Sunset Park & Automated Instant Ramen",
+    "location_name": "Yeouido Hangang Park",
+    "search_query": "Yeouido Hangang Park seoul",
+    "current_url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "new york",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sunrise Stroll Across the Elevated High Line Rail Greenway",
+    "location_name": "The High Line & Chelsea Market",
+    "search_query": "The High Line & Chelsea Market new york",
+    "current_url": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "new york",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "West Village Brownstone Stroll & Legendary Joe's Pizza Slice",
+    "location_name": "Bleecker Street & Joe's Pizza Carmine St",
+    "search_query": "Bleecker Street & Joe's Pizza Carmine St new york",
+    "current_url": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "new york",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "DUMBO Waterfront Pebble Beach & Brooklyn Bridge Twilight",
+    "location_name": "Pebble Beach & Brooklyn Bridge Promenade",
+    "search_query": "Pebble Beach & Brooklyn Bridge Promenade new york",
+    "current_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "london",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sizzling Raclette & Fresh Sourdough at Borough Market",
+    "location_name": "Borough Market beneath Victorian Railway Arches",
+    "search_query": "Borough Market beneath Victorian Railway Arches london",
+    "current_url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "london",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Tate Modern Monumental Turbine Hall & Millennium Bridge Walk",
+    "location_name": "Tate Modern & Millennium Suspension Bridge",
+    "search_query": "Tate Modern & Millennium Suspension Bridge london",
+    "current_url": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_db",
+    "city": "london",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Shoreditch Street Art Vaults & Brick Lane Beigel Sizzle",
+    "location_name": "Brick Lane & Redchurch Street",
+    "search_query": "Brick Lane & Redchurch Street london",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "amsterdam",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 9 Straatjes Secret Canal Bridges & Artisan Espresso",
+    "location_name": "De 9 Straatjes (Nine Streets) & Screaming Beans Coffee",
+    "search_query": "De 9 Straatjes (Nine Streets) & Screaming Beans Coffee amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "amsterdam",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Rijksmuseum Classical Masterpieces & Secret Research Library",
+    "location_name": "Rijksmuseum & Cuypers Library",
+    "search_query": "Rijksmuseum & Cuypers Library amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "amsterdam",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "A'DAM Toren Panoramic Swing & Twilight Canal Ferry",
+    "location_name": "A'DAM Lookout & Over the Edge Swing",
+    "search_query": "A'DAM Lookout & Over the Edge Swing amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "singapore",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Gardens by the Bay Cloud Forest Mist & 35m Indoor Waterfall",
+    "location_name": "Cloud Forest & Flower Dome",
+    "search_query": "Cloud Forest & Flower Dome singapore",
+    "current_url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "singapore",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Maxwell Hawker Center Food Safari & Buddha Tooth Relic Temple",
+    "location_name": "Maxwell Food Centre & Buddha Tooth Relic Temple",
+    "search_query": "Maxwell Food Centre & Buddha Tooth Relic Temple singapore",
+    "current_url": "https://images.unsplash.com/photo-1565967511849-76a60a516170?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "singapore",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Supertree Grove Rhapsody Light Show & Marina Bay Sands SkyPark",
+    "location_name": "Supertree Grove & Marina Bay Sands SkyPark",
+    "search_query": "Supertree Grove & Marina Bay Sands SkyPark singapore",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "sydney",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sydney Opera House Forecourt & Royal Botanic Foreshore Walk",
+    "location_name": "Sydney Opera House & Mrs Macquarie's Chair",
+    "search_query": "Sydney Opera House & Mrs Macquarie's Chair sydney",
+    "current_url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "sydney",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Bondi to Bronte Ocean Coastal Cliff Walk & Icebergs Ocean Pool",
+    "location_name": "Bondi Icebergs Club & Coastal Walkway",
+    "search_query": "Bondi Icebergs Club & Coastal Walkway sydney",
+    "current_url": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "sydney",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Surry Hills Heritage Warehouse Bites & Rooftop Golden Hour",
+    "location_name": "Crown Street & Paramount House Hotel",
+    "search_query": "Crown Street & Paramount House Hotel sydney",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "cairo",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sunrise at the Great Pyramids of Giza & The Great Sphinx",
+    "location_name": "Giza Plateau (Khufu, Khafre, Menkaure)",
+    "search_query": "Giza Plateau (Khufu, Khafre, Menkaure) cairo",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "cairo",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Grand Egyptian Museum & Tutankhamun Treasures",
+    "location_name": "GEM (Grand Egyptian Museum) Atrium & Grand Staircase",
+    "search_query": "GEM (Grand Egyptian Museum) Atrium & Grand Staircase cairo",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "cairo",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Khan el-Khalili 14th-Century Spice Bazaar & Al-Azhar Mosque",
+    "location_name": "Khan el-Khalili & Moez Street",
+    "search_query": "Khan el-Khalili & Moez Street cairo",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "istanbul",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Hagia Sophia & Underground Basilica Cistern",
+    "location_name": "Hagia Sophia & Yerebatan Sarn\u0131c\u0131",
+    "search_query": "Hagia Sophia & Yerebatan Sarn\u0131c\u0131 istanbul",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "istanbul",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Spice Bazaar (M\u0131s\u0131r \u00c7ar\u015f\u0131s\u0131) & R\u00fcstem Pasha Blue Tiles",
+    "location_name": "Egyptian Spice Bazaar & Tahtakale Alleys",
+    "search_query": "Egyptian Spice Bazaar & Tahtakale Alleys istanbul",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "istanbul",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Bosphorus Sunset Ferry to Asia & Kad\u0131k\u00f6y Culinary Crawl",
+    "location_name": "Bosphorus Ferry & Moda Seaside Promenade",
+    "search_query": "Bosphorus Ferry & Moda Seaside Promenade istanbul",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "rio",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Christ the Redeemer at Corcovado Sunrise Cogwheel Train",
+    "location_name": "Corcovado Mountain (710m Summit)",
+    "search_query": "Corcovado Mountain (710m Summit) rio",
+    "current_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "rio",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Sugarloaf Mountain (P\u00e3o de A\u00e7\u00facar) Two-Stage Aerial Cableway",
+    "location_name": "Morro da Urca & Sugarloaf Peak",
+    "search_query": "Morro da Urca & Sugarloaf Peak rio",
+    "current_url": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "rio",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Arpoador Rock Sunset Ritual & Ipanema Beachside Samba",
+    "location_name": "Pedra do Arpoador & Posto 9",
+    "search_query": "Pedra do Arpoador & Posto 9 rio",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "capetown",
+    "day": 1,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Table Mountain 360\u00b0 Revolving Cableway & Cloud Summit Walk",
+    "location_name": "Table Mountain Aerial Cableway",
+    "search_query": "Table Mountain Aerial Cableway capetown",
+    "current_url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "capetown",
+    "day": 1,
+    "slot_idx": 1,
+    "activity_name": "Bo-Kaap Pastel Heritage Quarter & Cape Malay Spice Tasting",
+    "location_name": "Wale Street & Rose Street",
+    "search_query": "Wale Street & Rose Street capetown",
+    "current_url": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_extra",
+    "city": "capetown",
+    "day": 1,
+    "slot_idx": 2,
+    "activity_name": "Camps Bay Sunset Beach Promenade & Atlantic Breakers",
+    "location_name": "Victoria Road & Camps Bay Tidal Pool",
+    "search_query": "Victoria Road & Camps Bay Tidal Pool capetown",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "tokyo",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 teamLab Planets Immersive Light Art Labyrinth",
+    "location_name": "teamLab Planets Toyosu",
+    "search_query": "teamLab Planets Toyosu tokyo",
+    "current_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "tokyo",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Nakameguro Canal Boutiques & Record Bar Hopping",
+    "location_name": "Meguro River Walkway & Traveler's Factory",
+    "search_query": "Meguro River Walkway & Traveler's Factory tokyo",
+    "current_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "tokyo",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Yanaka Ginza Nostalgic Shitamachi Walking Tour",
+    "location_name": "Yanesen District (Yanaka, Nezu, Sendagi)",
+    "search_query": "Yanesen District (Yanaka, Nezu, Sendagi) tokyo",
+    "current_url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "tokyo",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Multi-Floor Retro Rhythm Gaming & Gachapon Hall",
+    "location_name": "Gigo Akihabara & Gachapon Kaikan",
+    "search_query": "Gigo Akihabara & Gachapon Kaikan tokyo",
+    "current_url": "https://images.unsplash.com/photo-1554797589-7241bb691973?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bali",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Bingin Beach Secret Limestone Cove & Tide Pools",
+    "location_name": "Bingin Beach Cliff Steps",
+    "search_query": "Bingin Beach Cliff Steps bali",
+    "current_url": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bali",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "70-Meter Uluwatu Cliff Temple & Sunset Kecak Fire Dance",
+    "location_name": "Pura Luhur Uluwatu Amphitheater",
+    "search_query": "Pura Luhur Uluwatu Amphitheater bali",
+    "current_url": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bali",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Morning Surf Session at Echo Beach & Smoothie Bowls",
+    "location_name": "Echo Beach & Crate Cafe",
+    "search_query": "Echo Beach & Crate Cafe bali",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bali",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "La Brisa Eco-Reclaimed Fishing Boat Sunset Dayclub",
+    "location_name": "La Brisa Bali at Echo Beach",
+    "search_query": "La Brisa Bali at Echo Beach bali",
+    "current_url": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "rome",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Colosseum Arena Floor & Underground Gladiator Chambers",
+    "location_name": "Flavian Amphitheater (Colosseo)",
+    "search_query": "Flavian Amphitheater (Colosseo) rome",
+    "current_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "rome",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Monti Vintage Vaults & Natural Wine Cellars",
+    "location_name": "Via del Boschetto & Via Urbana",
+    "search_query": "Via del Boschetto & Via Urbana rome",
+    "current_url": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "paris",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Sunrise over Paris from Sacr\u00e9-C\u0153ur Basilica Domes",
+    "location_name": "Sacr\u00e9-C\u0153ur Dome & Parvis",
+    "search_query": "Sacr\u00e9-C\u0153ur Dome & Parvis paris",
+    "current_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "paris",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Secret Vineyard Clos Montmartre & Le Consulat Bistro",
+    "location_name": "Clos Montmartre & Au Lapin Agile",
+    "search_query": "Clos Montmartre & Au Lapin Agile paris",
+    "current_url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "iceland",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Walk Between North American & Eurasian Tectonic Plates",
+    "location_name": "\u00deingvellir National Park Almannagj\u00e1 Canyon",
+    "search_query": "\u00deingvellir National Park Almannagj\u00e1 Canyon iceland",
+    "current_url": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "iceland",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Strokkur Boiling Geyser 30-Meter Eruption Sizzle",
+    "location_name": "Haukadalur Geothermal Valley (Geysir & Strokkur)",
+    "search_query": "Haukadalur Geothermal Valley (Geysir & Strokkur) iceland",
+    "current_url": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "swiss alps",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Gornergrat Cogwheel Railway to 3,089-Meter Glacier Ridge",
+    "location_name": "Gornergrat Bahn & 360 Observatory",
+    "search_query": "Gornergrat Bahn & 360 Observatory swiss alps",
+    "current_url": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "swiss alps",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Riffelsee Mirror Lake Matterhorn Reflection Walk",
+    "location_name": "Lake Riffelsee",
+    "search_query": "Lake Riffelsee swiss alps",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "kyoto",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Early Morning Hike Through Fushimi Inari 10,000 Torii Gates",
+    "location_name": "Fushimi Inari Taisha Mount Inari",
+    "search_query": "Fushimi Inari Taisha Mount Inari kyoto",
+    "current_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "kyoto",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Ninenzaka & Sannenzaka Historic Preserved Stone Stairways",
+    "location_name": "Ninenzaka, Sannenzaka & Yasaka Pagoda",
+    "search_query": "Ninenzaka, Sannenzaka & Yasaka Pagoda kyoto",
+    "current_url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "barcelona",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Park G\u00fcell Curved Mosaic Serpentine Bench Walk",
+    "location_name": "Park G\u00fcell Monumental Zone",
+    "search_query": "Park G\u00fcell Monumental Zone barcelona",
+    "current_url": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "barcelona",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Bunkers del Carmel 360-Degree Sunset Skyline Overlook",
+    "location_name": "Tur\u00f3 de la Rovira (Bunkers del Carmel)",
+    "search_query": "Tur\u00f3 de la Rovira (Bunkers del Carmel) barcelona",
+    "current_url": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bangkok",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Private Wooden Longtail Boat Cruise through Thonburi Canals",
+    "location_name": "Thonburi Klong Canals & Chao Phraya River",
+    "search_query": "Thonburi Klong Canals & Chao Phraya River bangkok",
+    "current_url": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "bangkok",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Bicycle Jungle Safari through Bang Kachao 'Green Lung'",
+    "location_name": "Bang Kachao Peninsula & Sri Nakhon Khuean Khan Park",
+    "search_query": "Bang Kachao Peninsula & Sri Nakhon Khuean Khan Park bangkok",
+    "current_url": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "dubai",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Palm Jumeirah Monorail & The View at The Palm 52F",
+    "location_name": "The View at The Palm (Nakheel Mall 52F)",
+    "search_query": "The View at The Palm (Nakheel Mall 52F) dubai",
+    "current_url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "dubai",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Dubai Marina Walk & Sunset Yacht Cruise",
+    "location_name": "Dubai Marina Yacht Club & Promenade",
+    "search_query": "Dubai Marina Yacht Club & Promenade dubai",
+    "current_url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "seoul",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Bukchon Hanok Village Quiet Morning Architecture Walk",
+    "location_name": "Bukchon Hanok Village (Gahoe-dong 31)",
+    "search_query": "Bukchon Hanok Village (Gahoe-dong 31) seoul",
+    "current_url": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "seoul",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "N Seoul Tower Cable Car & Mount Namsan Sunset Panorama",
+    "location_name": "Namsan Cable Car & N Seoul Tower",
+    "search_query": "Namsan Cable Car & N Seoul Tower seoul",
+    "current_url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "new york",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Central Park The Ramble & Bow Bridge Morning Reflection",
+    "location_name": "The Ramble, Bow Bridge & Bethesda Fountain",
+    "search_query": "The Ramble, Bow Bridge & Bethesda Fountain new york",
+    "current_url": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "new york",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Museum of Modern Art (MoMA) & Sculpture Garden",
+    "location_name": "The Museum of Modern Art (MoMA)",
+    "search_query": "The Museum of Modern Art (MoMA) new york",
+    "current_url": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "london",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Regent's Canal Towpath Walk & Camden Stables Market",
+    "location_name": "Regent's Canal Towpath & Camden Lock",
+    "search_query": "Regent's Canal Towpath & Camden Lock london",
+    "current_url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days",
+    "city": "london",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Soho Historic Jazz Basements & Dishoom Bombay Feast",
+    "location_name": "Ronnie Scott's Jazz Club & Dishoom Carnaby",
+    "search_query": "Ronnie Scott's Jazz Club & Dishoom Carnaby london",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Albert Cuypmarkt Street Food Safari & Fresh Herring",
+    "location_name": "Albert Cuypstraat & Gerard Doustraat",
+    "search_query": "Albert Cuypstraat & Gerard Doustraat amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Vondelpark Cycling & Hidden Rose Garden Pavilions",
+    "location_name": "Vondelpark & Rose Garden",
+    "search_query": "Vondelpark & Rose Garden amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Historic Brown Cafe Crawl & Candlelit Bitterballen Feast",
+    "location_name": "Cafe 't Smalle & Cafe Papeneiland",
+    "search_query": "Cafe 't Smalle & Cafe Papeneiland amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Historic Working Windmills of Zaanse Schans",
+    "location_name": "Zaanse Schans Historic Village",
+    "search_query": "Zaanse Schans Historic Village amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "STRAAT Museum Giant Street Art Vaults at NDSM Shipyard",
+    "location_name": "STRAAT Museum & NDSM Werf",
+    "search_query": "STRAAT Museum & NDSM Werf amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "amsterdam",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Pllek Waterfront Beach Bonfire & Craft Microbrewery Sizzle",
+    "location_name": "Pllek & Brouwerij Walhalla",
+    "search_query": "Pllek & Brouwerij Walhalla amsterdam",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Joo Chiat Pastel Peranakan Shophouse Photography Stroll",
+    "location_name": "Koon Seng Road Shophouses",
+    "search_query": "Koon Seng Road Shophouses singapore",
+    "current_url": "https://images.unsplash.com/photo-1565967511849-76a60a516170?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "ArtScience Museum Immersive Future World Digital Art",
+    "location_name": "ArtScience Museum Lotus Building",
+    "search_query": "ArtScience Museum Lotus Building singapore",
+    "current_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Marina Bay Skyline Sunset & C\u00c9 LA VI Sky Lounge Toast",
+    "location_name": "C\u00c9 LA VI Lounge (57th Floor Marina Bay Sands)",
+    "search_query": "C\u00c9 LA VI Lounge (57th Floor Marina Bay Sands) singapore",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Mount Faber to Sentosa 360\u00b0 Glass Cable Car Flight",
+    "location_name": "Singapore Cable Car (Mount Faber Line)",
+    "search_query": "Singapore Cable Car (Mount Faber Line) singapore",
+    "current_url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Fort Siloso Coastal Skywalk & WWII Secret Gun Tunnels",
+    "location_name": "Fort Siloso Skywalk & Coastal Fortress",
+    "search_query": "Fort Siloso Skywalk & Coastal Fortress singapore",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "singapore",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Clarke Quay Neon River Cruise & Jumbo Seafood Chili Crab",
+    "location_name": "Clarke Quay & Singapore River",
+    "search_query": "Clarke Quay & Singapore River singapore",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Iconic F1 Green & Yellow Ferry to Manly Beach",
+    "location_name": "Circular Quay Wharf 3 to Manly Wharf",
+    "search_query": "Circular Quay Wharf 3 to Manly Wharf sydney",
+    "current_url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Shelly Beach Cabbage Tree Bay Aquatic Reserve Snorkel",
+    "location_name": "Shelly Beach Marine Reserve",
+    "search_query": "Shelly Beach Marine Reserve sydney",
+    "current_url": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Manly Wharf Sunset Drinks & Golden Hour Return Ferry",
+    "location_name": "Manly Wharf Hotel & Return Ferry",
+    "search_query": "Manly Wharf Hotel & Return Ferry sydney",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 The Rocks Historic Gaslit Alleys & Foundation Park",
+    "location_name": "Foundation Park & Susannah Place",
+    "search_query": "Foundation Park & Susannah Place sydney",
+    "current_url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "King Street Newtown Vintage Thrift & Independent Vinyl Vaults",
+    "location_name": "King Street & Enmore Road",
+    "search_query": "King Street & Enmore Road sydney",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "sydney",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Barangaroo Reserve Native Foreshore & Twilight Waterfront Drinks",
+    "location_name": "Barangaroo Reserve & Wulugul Walk",
+    "search_query": "Barangaroo Reserve & Wulugul Walk sydney",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 The Hanging Church (El Muallaqa) & Roman Babylon Fortress",
+    "location_name": "The Hanging Church & Church of St. Sergius and Bacchus",
+    "search_query": "The Hanging Church & Church of St. Sergius and Bacchus cairo",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Egyptian Museum at Tahrir Classical Antiquities Vaults",
+    "location_name": "Museum of Egyptian Antiquities (Tahrir)",
+    "search_query": "Museum of Egyptian Antiquities (Tahrir) cairo",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Traditional Wooden Felucca Sunset Sail on the River Nile",
+    "location_name": "Nile Corniche Dokki Boat Pier",
+    "search_query": "Nile Corniche Dokki Boat Pier cairo",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Step Pyramid of Djoser & The Serapeum Underworld Vaults",
+    "location_name": "Saqqara Necropolis (Pyramid of Djoser)",
+    "search_query": "Saqqara Necropolis (Pyramid of Djoser) cairo",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Open-Air Museum of Memphis & Colossus of Ramses II",
+    "location_name": "Mit Rahina Open-Air Museum",
+    "search_query": "Mit Rahina Open-Air Museum cairo",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "cairo",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Desert Sunset Dunes Walk & Bedouin Open-Fire Hearth Feast",
+    "location_name": "Giza Desert Ridge Camp",
+    "search_query": "Giza Desert Ridge Camp cairo",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Topkapi Palace Courtyards, Harem & Imperial Treasury",
+    "location_name": "Topkapi Palace & The Harem Pavilions",
+    "search_query": "Topkapi Palace & The Harem Pavilions istanbul",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Galata Tower 360\u00b0 Panorama & Antique Music Alleys",
+    "location_name": "Galata Tower & Galip Dede Street",
+    "search_query": "Galata Tower & Galip Dede Street istanbul",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Istiklal Neon Stroll & Asmal\u0131mescit Meyhane Meze Night",
+    "location_name": "Istiklal Caddesi & Asmal\u0131mescit Meyhanesi",
+    "search_query": "Istiklal Caddesi & Asmal\u0131mescit Meyhanesi istanbul",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Dolmabah\u00e7e Palace Imperial Waterfront & Crystal Staircase",
+    "location_name": "Dolmabah\u00e7e Palace & Ceremonial Hall",
+    "search_query": "Dolmabah\u00e7e Palace & Ceremonial Hall istanbul",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Ortak\u00f6y Baroque Mosque by the Water & Artisan Jewelry Stalls",
+    "location_name": "B\u00fcy\u00fck Mecidiye (Ortak\u00f6y) Mosque",
+    "search_query": "B\u00fcy\u00fck Mecidiye (Ortak\u00f6y) Mosque istanbul",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "istanbul",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Bebek Coastal Promenade Sunset & Fresh Bosphorus Linefish Catch",
+    "location_name": "Bebek Park & Lucca Lounge",
+    "search_query": "Bebek Park & Lucca Lounge istanbul",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Escadaria Selar\u00f3n 215-Step Colorful Ceramic Stairway",
+    "location_name": "Escadaria Selar\u00f3n (Lapa to Santa Teresa)",
+    "search_query": "Escadaria Selar\u00f3n (Lapa to Santa Teresa) rio",
+    "current_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Parque das Ru\u00ednas Panoramic Mansions & Bohemian Art Studios",
+    "location_name": "Parque das Ru\u00ednas & Largo do Guimar\u00e3es",
+    "search_query": "Parque das Ru\u00ednas & Largo do Guimar\u00e3es rio",
+    "current_url": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Arcos da Lapa & Live Traditional Samba at Circo Voador",
+    "location_name": "Arcos da Lapa & Circo Voador / Carioca da Gema",
+    "search_query": "Arcos da Lapa & Circo Voador / Carioca da Gema rio",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Vista Chinesa Pagoda Overlook & Cascatinha Taunay Waterfall",
+    "location_name": "Vista Chinesa & Tijuca Rainforest",
+    "search_query": "Vista Chinesa & Tijuca Rainforest rio",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Jardim Bot\u00e2nico Royal Palms & Orchid Greenhouse Sanctuary",
+    "location_name": "Jardim Bot\u00e2nico do Rio de Janeiro",
+    "search_query": "Jardim Bot\u00e2nico do Rio de Janeiro rio",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "rio",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Leblon Beach Golden Hour & Dias Ferreira Gastro Crawl",
+    "location_name": "Rua Dias Ferreira & Posto 12 Mirante do Leblon",
+    "search_query": "Rua Dias Ferreira & Posto 12 Mirante do Leblon rio",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 2,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Chapman's Peak Drive & Hout Bay Coastal Lookouts",
+    "location_name": "Chapman's Peak Drive (M6)",
+    "search_query": "Chapman's Peak Drive (M6) capetown",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 2,
+    "slot_idx": 1,
+    "activity_name": "Boulders Beach Wild African Penguin Sanctuary Walk",
+    "location_name": "Boulders Beach National Park",
+    "search_query": "Boulders Beach National Park capetown",
+    "current_url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 2,
+    "slot_idx": 2,
+    "activity_name": "Cape Point Funicular & Cape of Good Hope Dramatic Ocean Rim",
+    "location_name": "Cape Point & Flying Dutchman Funicular",
+    "search_query": "Cape Point & Flying Dutchman Funicular capetown",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 3,
+    "slot_idx": 0,
+    "activity_name": "\ud83c\udf05 Kirstenbosch National Botanical Garden 'Boomslang' Canopy Walkway",
+    "location_name": "Kirstenbosch Botanical Gardens",
+    "search_query": "Kirstenbosch Botanical Gardens capetown",
+    "current_url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 3,
+    "slot_idx": 1,
+    "activity_name": "Groot Constantia 1685 Historic Cape Dutch Vineyard Estate",
+    "location_name": "Groot Constantia Wine Estate",
+    "search_query": "Groot Constantia Wine Estate capetown",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "destinations_multi_days_extra",
+    "city": "capetown",
+    "day": 3,
+    "slot_idx": 2,
+    "activity_name": "Signal Hill Sunset Toast & Twilight Paraglider Overlook",
+    "location_name": "Signal Hill Summit",
+    "search_query": "Signal Hill Summit capetown",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 1,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Coastal Cliff Walk & Tidepool Reflections",
+    "location_name": "North Coral Peninsula",
+    "search_query": "\ud83c\udf05 Sunrise Coastal Cliff Walk & Tidepool Reflections North Coral Peninsula",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 1,
+    "slot_name": "midday",
+    "activity_name": "Hidden Marine Sanctuary Snorkel & Sea Turtle Coves",
+    "location_name": "North Coral Peninsula",
+    "search_query": "Hidden Marine Sanctuary Snorkel & Sea Turtle Coves North Coral Peninsula",
+    "current_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 1,
+    "slot_name": "evening",
+    "activity_name": "Catamaran Sunset Cruise & Barefoot Beach Club Lounge",
+    "location_name": "North Coral Peninsula",
+    "search_query": "Catamaran Sunset Cruise & Barefoot Beach Club Lounge North Coral Peninsula",
+    "current_url": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 2,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Glass-Bottom Kayaking through Secret Mangrove Channels",
+    "location_name": "Emerald Bay & Mangrove Estuary",
+    "search_query": "\ud83c\udf05 Glass-Bottom Kayaking through Secret Mangrove Channels Emerald Bay & Mangrove Estuary",
+    "current_url": "https://images.unsplash.com/photo-1544551763-77ef2d0cf967?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 2,
+    "slot_name": "midday",
+    "activity_name": "Hidden Sea Cave Exploration & Tidal Lagoon Swim",
+    "location_name": "Emerald Bay & Mangrove Estuary",
+    "search_query": "Hidden Sea Cave Exploration & Tidal Lagoon Swim Emerald Bay & Mangrove Estuary",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 2,
+    "slot_name": "evening",
+    "activity_name": "Tidepool Sunset Walk & Oceanfront Beach Hearth",
+    "location_name": "Emerald Bay & Mangrove Estuary",
+    "search_query": "Tidepool Sunset Walk & Oceanfront Beach Hearth Emerald Bay & Mangrove Estuary",
+    "current_url": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 3,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Jungle Ridge Trek to Hidden 3-Tier Volcanic Waterfall",
+    "location_name": "Interior Volcanic Highlands & West Headland",
+    "search_query": "\ud83c\udf05 Jungle Ridge Trek to Hidden 3-Tier Volcanic Waterfall Interior Volcanic Highlands & West Headland",
+    "current_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 3,
+    "slot_name": "midday",
+    "activity_name": "Volcanic Hot Springs Soak & Botanical Orchid Gardens",
+    "location_name": "Interior Volcanic Highlands & West Headland",
+    "search_query": "Volcanic Hot Springs Soak & Botanical Orchid Gardens Interior Volcanic Highlands & West Headland",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 3,
+    "slot_name": "evening",
+    "activity_name": "West Headland Sunset Lookout & Acoustic Beach Bonfire",
+    "location_name": "Interior Volcanic Highlands & West Headland",
+    "search_query": "West Headland Sunset Lookout & Acoustic Beach Bonfire Interior Volcanic Highlands & West Headland",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 4,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Outer Barrier Reef Drift Snorkel & Living Coral Gardens",
+    "location_name": "Outer Barrier Atoll",
+    "search_query": "\ud83c\udf05 Outer Barrier Reef Drift Snorkel & Living Coral Gardens Outer Barrier Atoll",
+    "current_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 4,
+    "slot_name": "midday",
+    "activity_name": "Secret Sandbar Low-Tide Walk & Natural Swimming Basin",
+    "location_name": "Outer Barrier Atoll",
+    "search_query": "Secret Sandbar Low-Tide Walk & Natural Swimming Basin Outer Barrier Atoll",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 4,
+    "slot_name": "evening",
+    "activity_name": "Sunset Overwater Hammock Lounge & Tropical Soundscape",
+    "location_name": "Outer Barrier Atoll",
+    "search_query": "Sunset Overwater Hammock Lounge & Tropical Soundscape Outer Barrier Atoll",
+    "current_url": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 5,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Dawn Sea Turtle Observation & Coastal Dune Boardwalk",
+    "location_name": "Southern Wild Dunes & Marine Sanctuary",
+    "search_query": "\ud83c\udf05 Dawn Sea Turtle Observation & Coastal Dune Boardwalk Southern Wild Dunes & Marine Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1544551763-77ef2d0cf967?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 5,
+    "slot_name": "midday",
+    "activity_name": "Coastal Blowholes & Black Sand Volcanic Beach",
+    "location_name": "Southern Wild Dunes & Marine Sanctuary",
+    "search_query": "Coastal Blowholes & Black Sand Volcanic Beach Southern Wild Dunes & Marine Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 5,
+    "slot_name": "evening",
+    "activity_name": "Dune Crest Sunset Yoga & Starlit Ocean BBQ",
+    "location_name": "Southern Wild Dunes & Marine Sanctuary",
+    "search_query": "Dune Crest Sunset Yoga & Starlit Ocean BBQ Southern Wild Dunes & Marine Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 6,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Handcrafted Bamboo Raft Glide Down Emerald River",
+    "location_name": "Lush River Valley & Bamboo Groves",
+    "search_query": "\ud83c\udf05 Handcrafted Bamboo Raft Glide Down Emerald River Lush River Valley & Bamboo Groves",
+    "current_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 6,
+    "slot_name": "midday",
+    "activity_name": "Organic Island Spice Plantation & Vanilla Bean Walk",
+    "location_name": "Lush River Valley & Bamboo Groves",
+    "search_query": "Organic Island Spice Plantation & Vanilla Bean Walk Lush River Valley & Bamboo Groves",
+    "current_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 6,
+    "slot_name": "evening",
+    "activity_name": "Riverside Firefly Night Kayak & Lantern Dining",
+    "location_name": "Lush River Valley & Bamboo Groves",
+    "search_query": "Riverside Firefly Night Kayak & Lantern Dining Lush River Valley & Bamboo Groves",
+    "current_url": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 7,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Hike to Historic Oceanic Lighthouse Tower",
+    "location_name": "Windward Lighthouse Cliffs",
+    "search_query": "\ud83c\udf05 Sunrise Hike to Historic Oceanic Lighthouse Tower Windward Lighthouse Cliffs",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 7,
+    "slot_name": "midday",
+    "activity_name": "Natural Basalt Sea Arch Bridge & Hidden Cave Beach",
+    "location_name": "Windward Lighthouse Cliffs",
+    "search_query": "Natural Basalt Sea Arch Bridge & Hidden Cave Beach Windward Lighthouse Cliffs",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 7,
+    "slot_name": "evening",
+    "activity_name": "Cliffside Sunset Lounge & Oceanfront Acoustic Serenade",
+    "location_name": "Windward Lighthouse Cliffs",
+    "search_query": "Cliffside Sunset Lounge & Oceanfront Acoustic Serenade Windward Lighthouse Cliffs",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 8,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Suspended Treetop Canopy Walkway through Ancient Fog",
+    "location_name": "Ancient Inland Rainforest Sanctuary",
+    "search_query": "\ud83c\udf05 Suspended Treetop Canopy Walkway through Ancient Fog Ancient Inland Rainforest Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1544551763-77ef2d0cf967?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 8,
+    "slot_name": "midday",
+    "activity_name": "Sacred 500-Year-Old Banyan Tree & Natural Stream Pools",
+    "location_name": "Ancient Inland Rainforest Sanctuary",
+    "search_query": "Sacred 500-Year-Old Banyan Tree & Natural Stream Pools Ancient Inland Rainforest Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 8,
+    "slot_name": "evening",
+    "activity_name": "Forest Hot Springs Night Soak & Starlit Hearth Grill",
+    "location_name": "Ancient Inland Rainforest Sanctuary",
+    "search_query": "Forest Hot Springs Night Soak & Starlit Hearth Grill Ancient Inland Rainforest Sanctuary",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 9,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise with Local Fishermen & Sea Salt Flat Basins",
+    "location_name": "Historic Fishermen's Cove",
+    "search_query": "\ud83c\udf05 Sunrise with Local Fishermen & Sea Salt Flat Basins Historic Fishermen's Cove",
+    "current_url": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 9,
+    "slot_name": "midday",
+    "activity_name": "Wooden Dory Boat Trip to Secluded Snorkel Island",
+    "location_name": "Historic Fishermen's Cove",
+    "search_query": "Wooden Dory Boat Trip to Secluded Snorkel Island Historic Fishermen's Cove",
+    "current_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 9,
+    "slot_name": "evening",
+    "activity_name": "Pier End Sunset Feast & Barefoot Acoustic Jam",
+    "location_name": "Historic Fishermen's Cove",
+    "search_query": "Pier End Sunset Feast & Barefoot Acoustic Jam Historic Fishermen's Cove",
+    "current_url": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 10,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Grand Bluff 360\u00b0 Ocean Overlook & Whale Trail",
+    "location_name": "Grand Ocean Bluff & Southern Sands",
+    "search_query": "\ud83c\udf05 Grand Bluff 360\u00b0 Ocean Overlook & Whale Trail Grand Ocean Bluff & Southern Sands",
+    "current_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 10,
+    "slot_name": "midday",
+    "activity_name": "Secret Cathedral Tide Cave Exploration",
+    "location_name": "Grand Ocean Bluff & Southern Sands",
+    "search_query": "Secret Cathedral Tide Cave Exploration Grand Ocean Bluff & Southern Sands",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "TROPICAL_ISLAND_COASTAL",
+    "day": 10,
+    "slot_name": "evening",
+    "activity_name": "Farewell Starlit Beach Bonfire & Ocean Celebration",
+    "location_name": "Grand Ocean Bluff & Southern Sands",
+    "search_query": "Farewell Starlit Beach Bonfire & Ocean Celebration Grand Ocean Bluff & Southern Sands",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 1,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Alpine Lake Mirror Reflection & Pine Ridge Trail",
+    "location_name": "Upper Glacial Valley & Lake Basin",
+    "search_query": "\ud83c\udf05 Alpine Lake Mirror Reflection & Pine Ridge Trail Upper Glacial Valley & Lake Basin",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 1,
+    "slot_name": "midday",
+    "activity_name": "High-Elevation Suspension Bridge & Mountain Gondola Ascent",
+    "location_name": "Upper Glacial Valley & Lake Basin",
+    "search_query": "High-Elevation Suspension Bridge & Mountain Gondola Ascent Upper Glacial Valley & Lake Basin",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 1,
+    "slot_name": "evening",
+    "activity_name": "Thermal Hot Springs Soak & Starlit Hearth Dining",
+    "location_name": "Upper Glacial Valley & Lake Basin",
+    "search_query": "Thermal Hot Springs Soak & Starlit Hearth Dining Upper Glacial Valley & Lake Basin",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 2,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Carved Limestone Gorge Wooden Footbridge Walk",
+    "location_name": "Lower River Canyon & Wooded Valley",
+    "search_query": "\ud83c\udf05 Carved Limestone Gorge Wooden Footbridge Walk Lower River Canyon & Wooded Valley",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 2,
+    "slot_name": "midday",
+    "activity_name": "High Meadow Wildflower Loop & Alpine Horn Encounter",
+    "location_name": "Lower River Canyon & Wooded Valley",
+    "search_query": "High Meadow Wildflower Loop & Alpine Horn Encounter Lower River Canyon & Wooded Valley",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 2,
+    "slot_name": "evening",
+    "activity_name": "Mountain Hut Fondue Feast & Twilight Peak Glow (Alpenglow)",
+    "location_name": "Lower River Canyon & Wooded Valley",
+    "search_query": "Mountain Hut Fondue Feast & Twilight Peak Glow (Alpenglow) Lower River Canyon & Wooded Valley",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 3,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Cogwheel Scenic Railway Ascent to Glacial Ice Tunnel",
+    "location_name": "Upper Pass & Glacial Moraine",
+    "search_query": "\ud83c\udf05 Cogwheel Scenic Railway Ascent to Glacial Ice Tunnel Upper Pass & Glacial Moraine",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 3,
+    "slot_name": "midday",
+    "activity_name": "Blue Ice Grotto Walkway Deep Inside the Glacier",
+    "location_name": "Upper Pass & Glacial Moraine",
+    "search_query": "Blue Ice Grotto Walkway Deep Inside the Glacier Upper Pass & Glacial Moraine",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 3,
+    "slot_name": "evening",
+    "activity_name": "Cedar Pine Sauna & Open-Hearth Mountain Feast",
+    "location_name": "Upper Pass & Glacial Moraine",
+    "search_query": "Cedar Pine Sauna & Open-Hearth Mountain Feast Upper Pass & Glacial Moraine",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 4,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Subterranean Waterfall Chasm Inside the Mountain",
+    "location_name": "Valley of 72 Cascades",
+    "search_query": "\ud83c\udf05 Subterranean Waterfall Chasm Inside the Mountain Valley of 72 Cascades",
+    "current_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 4,
+    "slot_name": "midday",
+    "activity_name": "Alpine Cheese Dairy Visit & Mountain Meadow Trail",
+    "location_name": "Valley of 72 Cascades",
+    "search_query": "Alpine Cheese Dairy Visit & Mountain Meadow Trail Valley of 72 Cascades",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 4,
+    "slot_name": "evening",
+    "activity_name": "Sunset Cableway to Cliffside Edge Walkway",
+    "location_name": "Valley of 72 Cascades",
+    "search_query": "Sunset Cableway to Cliffside Edge Walkway Valley of 72 Cascades",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 5,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Trek to Secluded Turquoise Glacial Tarn",
+    "location_name": "Upper Granite Pass",
+    "search_query": "\ud83c\udf05 Sunrise Trek to Secluded Turquoise Glacial Tarn Upper Granite Pass",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 5,
+    "slot_name": "midday",
+    "activity_name": "Via Ferrata Cable Route Along Sheer Mountain Ridges",
+    "location_name": "Upper Granite Pass",
+    "search_query": "Via Ferrata Cable Route Along Sheer Mountain Ridges Upper Granite Pass",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 5,
+    "slot_name": "evening",
+    "activity_name": "Alpine Hut Stew Feast & Stargazing at 2,500m",
+    "location_name": "Upper Granite Pass",
+    "search_query": "Alpine Hut Stew Feast & Stargazing at 2,500m Upper Granite Pass",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 6,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Golden Larch Forest Trail in Early Morning Mist",
+    "location_name": "Thermal Springs Alpine Valley",
+    "search_query": "\ud83c\udf05 Golden Larch Forest Trail in Early Morning Mist Thermal Springs Alpine Valley",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 6,
+    "slot_name": "midday",
+    "activity_name": "Historic Roman Thermal Baths in Alpine Gorge",
+    "location_name": "Thermal Springs Alpine Valley",
+    "search_query": "Historic Roman Thermal Baths in Alpine Gorge Thermal Springs Alpine Valley",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 6,
+    "slot_name": "evening",
+    "activity_name": "Mountain Ridge Funicular Sunset & Rustic Grill",
+    "location_name": "Thermal Springs Alpine Valley",
+    "search_query": "Mountain Ridge Funicular Sunset & Rustic Grill Thermal Springs Alpine Valley",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 7,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 High Panoramic Crest Trail & Wild Edelweiss Hunt",
+    "location_name": "High Crest & Ridge Divide",
+    "search_query": "\ud83c\udf05 High Panoramic Crest Trail & Wild Edelweiss Hunt High Crest & Ridge Divide",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 7,
+    "slot_name": "midday",
+    "activity_name": "Rotating 360\u00b0 Cableway to High Summit Station",
+    "location_name": "High Crest & Ridge Divide",
+    "search_query": "Rotating 360\u00b0 Cableway to High Summit Station High Crest & Ridge Divide",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 7,
+    "slot_name": "evening",
+    "activity_name": "Summit Glass Pavilion Sunset & Fondue Feast",
+    "location_name": "High Crest & Ridge Divide",
+    "search_query": "Summit Glass Pavilion Sunset & Fondue Feast High Crest & Ridge Divide",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 8,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Moraine Ridge Trail Overlooking the Great Ice River",
+    "location_name": "Moraine Ridge & Glacial River Basin",
+    "search_query": "\ud83c\udf05 Moraine Ridge Trail Overlooking the Great Ice River Moraine Ridge & Glacial River Basin",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 8,
+    "slot_name": "midday",
+    "activity_name": "Alpine Botanical Rockery & Mountain Marmot Meadow",
+    "location_name": "Moraine Ridge & Glacial River Basin",
+    "search_query": "Alpine Botanical Rockery & Mountain Marmot Meadow Moraine Ridge & Glacial River Basin",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 8,
+    "slot_name": "evening",
+    "activity_name": "Glacial Stream Side Sauna & Wood-Roasted Feast",
+    "location_name": "Moraine Ridge & Glacial River Basin",
+    "search_query": "Glacial Stream Side Sauna & Wood-Roasted Feast Moraine Ridge & Glacial River Basin",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 9,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Carved Wooden Chalet Hamlet Stroll at Sunrise",
+    "location_name": "Traditional Timber Hamlet",
+    "search_query": "\ud83c\udf05 Carved Wooden Chalet Hamlet Stroll at Sunrise Traditional Timber Hamlet",
+    "current_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 9,
+    "slot_name": "midday",
+    "activity_name": "Traditional Woodcarver Atelier & Cuckoo Clock Workshop",
+    "location_name": "Traditional Timber Hamlet",
+    "search_query": "Traditional Woodcarver Atelier & Cuckoo Clock Workshop Traditional Timber Hamlet",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 9,
+    "slot_name": "evening",
+    "activity_name": "Open-Air Alpine Brass Concert & Starlit Hearth Dining",
+    "location_name": "Traditional Timber Hamlet",
+    "search_query": "Open-Air Alpine Brass Concert & Starlit Hearth Dining Traditional Timber Hamlet",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 10,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Farewell Sunrise Ridge Hike & Glass Skybridge Walk",
+    "location_name": "High Summit & Continental Divide",
+    "search_query": "\ud83c\udf05 Farewell Sunrise Ridge Hike & Glass Skybridge Walk High Summit & Continental Divide",
+    "current_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 10,
+    "slot_name": "midday",
+    "activity_name": "Last High Meadow Stroll & Alpine Souvenir Foraging",
+    "location_name": "High Summit & Continental Divide",
+    "search_query": "Last High Meadow Stroll & Alpine Souvenir Foraging High Summit & Continental Divide",
+    "current_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "ALPINE_MOUNTAIN_GLACIER",
+    "day": 10,
+    "slot_name": "evening",
+    "activity_name": "Farewell Starlit Hearth Feast & Peak Alpenglow Toast",
+    "location_name": "High Summit & Continental Divide",
+    "search_query": "Farewell Starlit Hearth Feast & Peak Alpenglow Toast High Summit & Continental Divide",
+    "current_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 1,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Dawn Balloon Flight or Sandstone Canyon Rim Hike",
+    "location_name": "Ancient Red Canyon & Historic Oasis",
+    "search_query": "\ud83c\udf05 Dawn Balloon Flight or Sandstone Canyon Rim Hike Ancient Red Canyon & Historic Oasis",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 1,
+    "slot_name": "midday",
+    "activity_name": "Fragrant Spice Souk & Historic Medersa Courtyard",
+    "location_name": "Ancient Red Canyon & Historic Oasis",
+    "search_query": "Fragrant Spice Souk & Historic Medersa Courtyard Ancient Red Canyon & Historic Oasis",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 1,
+    "slot_name": "evening",
+    "activity_name": "Sunset Dune Crest Walk & Starlit Desert Campfire",
+    "location_name": "Ancient Red Canyon & Historic Oasis",
+    "search_query": "Sunset Dune Crest Walk & Starlit Desert Campfire Ancient Red Canyon & Historic Oasis",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 2,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Over Ancient UNESCO Mud-Brick Citadel",
+    "location_name": "Mud-Brick Citadel & Artisan Quarters",
+    "search_query": "\ud83c\udf05 Sunrise Over Ancient UNESCO Mud-Brick Citadel Mud-Brick Citadel & Artisan Quarters",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 2,
+    "slot_name": "midday",
+    "activity_name": "Copper Hammering Alleys & Hand-Knotted Carpet Looms",
+    "location_name": "Mud-Brick Citadel & Artisan Quarters",
+    "search_query": "Copper Hammering Alleys & Hand-Knotted Carpet Looms Mud-Brick Citadel & Artisan Quarters",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 2,
+    "slot_name": "evening",
+    "activity_name": "Palm Grove Camel Trek at Dusk & Rooftop Stargazing",
+    "location_name": "Mud-Brick Citadel & Artisan Quarters",
+    "search_query": "Palm Grove Camel Trek at Dusk & Rooftop Stargazing Mud-Brick Citadel & Artisan Quarters",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 3,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Hike Through Wind-Sculpted Sandstone Arches",
+    "location_name": "Valley of the Moon Sandstone",
+    "search_query": "\ud83c\udf05 Sunrise Hike Through Wind-Sculpted Sandstone Arches Valley of the Moon Sandstone",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 3,
+    "slot_name": "midday",
+    "activity_name": "Ancient Rock Inscriptions & Desert Water Spring",
+    "location_name": "Valley of the Moon Sandstone",
+    "search_query": "Ancient Rock Inscriptions & Desert Water Spring Valley of the Moon Sandstone",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 3,
+    "slot_name": "evening",
+    "activity_name": "Deep Desert Astronomy Camp & Campfire Lamb Feast",
+    "location_name": "Valley of the Moon Sandstone",
+    "search_query": "Deep Desert Astronomy Camp & Campfire Lamb Feast Valley of the Moon Sandstone",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 4,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Secret Canyon Stream Trek to Turquoise Desert Pools",
+    "location_name": "Verdant Canyon Oasis",
+    "search_query": "\ud83c\udf05 Secret Canyon Stream Trek to Turquoise Desert Pools Verdant Canyon Oasis",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 4,
+    "slot_name": "midday",
+    "activity_name": "Terraced Oasis Fig Farms & Clay Bread Ovens",
+    "location_name": "Verdant Canyon Oasis",
+    "search_query": "Terraced Oasis Fig Farms & Clay Bread Ovens Verdant Canyon Oasis",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 4,
+    "slot_name": "evening",
+    "activity_name": "Desert Plateau Sunset Viewpoint & Campfire Tales",
+    "location_name": "Verdant Canyon Oasis",
+    "search_query": "Desert Plateau Sunset Viewpoint & Campfire Tales Verdant Canyon Oasis",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 5,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Dawn Dune Crest Walk Along Knife-Edge Sand Ridges",
+    "location_name": "Great Erg Sand Dunes",
+    "search_query": "\ud83c\udf05 Dawn Dune Crest Walk Along Knife-Edge Sand Ridges Great Erg Sand Dunes",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 5,
+    "slot_name": "midday",
+    "activity_name": "Desert Sandboarding & Shaded Berber Loom Workshop",
+    "location_name": "Great Erg Sand Dunes",
+    "search_query": "Desert Sandboarding & Shaded Berber Loom Workshop Great Erg Sand Dunes",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 5,
+    "slot_name": "evening",
+    "activity_name": "Nomadic Camp Sunset Drums & Slow-Roasted Hearth",
+    "location_name": "Great Erg Sand Dunes",
+    "search_query": "Nomadic Camp Sunset Drums & Slow-Roasted Hearth Great Erg Sand Dunes",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 6,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Historic Caravanserai Gatehouse & Courtyard Stroll",
+    "location_name": "Old Silk & Frankincense Quarter",
+    "search_query": "\ud83c\udf05 Historic Caravanserai Gatehouse & Courtyard Stroll Old Silk & Frankincense Quarter",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 6,
+    "slot_name": "midday",
+    "activity_name": "Frankincense Distillation & Amber Perfume Vaults",
+    "location_name": "Old Silk & Frankincense Quarter",
+    "search_query": "Frankincense Distillation & Amber Perfume Vaults Old Silk & Frankincense Quarter",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 6,
+    "slot_name": "evening",
+    "activity_name": "Citadel Ramparts Sunset & Lantern-Lit Feast",
+    "location_name": "Old Silk & Frankincense Quarter",
+    "search_query": "Citadel Ramparts Sunset & Lantern-Lit Feast Old Silk & Frankincense Quarter",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 7,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Birdwatching & Mirror Lake Reflections",
+    "location_name": "Lakeside Wetland Oasis",
+    "search_query": "\ud83c\udf05 Sunrise Birdwatching & Mirror Lake Reflections Lakeside Wetland Oasis",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 7,
+    "slot_name": "midday",
+    "activity_name": "Traditional Pottery Village & Clay Water Jars",
+    "location_name": "Lakeside Wetland Oasis",
+    "search_query": "Traditional Pottery Village & Clay Water Jars Lakeside Wetland Oasis",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 7,
+    "slot_name": "evening",
+    "activity_name": "Dune View Rooftop Dining Under the Desert Moon",
+    "location_name": "Lakeside Wetland Oasis",
+    "search_query": "Dune View Rooftop Dining Under the Desert Moon Lakeside Wetland Oasis",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 8,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Shimmering White Salt Flat Sunrise & Geometric Crystals",
+    "location_name": "White Salt Basin & Black Basalt",
+    "search_query": "\ud83c\udf05 Shimmering White Salt Flat Sunrise & Geometric Crystals White Salt Basin & Black Basalt",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 8,
+    "slot_name": "midday",
+    "activity_name": "Black Basalt Canyon Exploration & Volcanic Tubes",
+    "location_name": "White Salt Basin & Black Basalt",
+    "search_query": "Black Basalt Canyon Exploration & Volcanic Tubes White Salt Basin & Black Basalt",
+    "current_url": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 8,
+    "slot_name": "evening",
+    "activity_name": "Desert Horizon Sunset & Open-Sky Charcoal Grill",
+    "location_name": "White Salt Basin & Black Basalt",
+    "search_query": "Desert Horizon Sunset & Open-Sky Charcoal Grill White Salt Basin & Black Basalt",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 9,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Morning Date Palm Harvest & Traditional Tree Climbers",
+    "location_name": "Grand Royal Palm Oasis",
+    "search_query": "\ud83c\udf05 Morning Date Palm Harvest & Traditional Tree Climbers Grand Royal Palm Oasis",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 9,
+    "slot_name": "midday",
+    "activity_name": "Ancient Deep Stone Well & Gravity Water System",
+    "location_name": "Grand Royal Palm Oasis",
+    "search_query": "Ancient Deep Stone Well & Gravity Water System Grand Royal Palm Oasis",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 9,
+    "slot_name": "evening",
+    "activity_name": "Sunset Over the Palm Canopy & Garden Hearth Dinner",
+    "location_name": "Grand Royal Palm Oasis",
+    "search_query": "Sunset Over the Palm Canopy & Garden Hearth Dinner Grand Royal Palm Oasis",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 10,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Final Dawn Summit Hike to the Highest Desert Crest",
+    "location_name": "Grand Erg Summit Ridge",
+    "search_query": "\ud83c\udf05 Final Dawn Summit Hike to the Highest Desert Crest Grand Erg Summit Ridge",
+    "current_url": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 10,
+    "slot_name": "midday",
+    "activity_name": "Desert Souvenir Bazaars & Spiced Frankincense Hauls",
+    "location_name": "Grand Erg Summit Ridge",
+    "search_query": "Desert Souvenir Bazaars & Spiced Frankincense Hauls Grand Erg Summit Ridge",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "DESERT_OASIS_CULTURE",
+    "day": 10,
+    "slot_name": "evening",
+    "activity_name": "Grand Starlit Farewell Campfire & Desert Celebration",
+    "location_name": "Grand Erg Summit Ridge",
+    "search_query": "Grand Starlit Farewell Campfire & Desert Celebration Grand Erg Summit Ridge",
+    "current_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 1,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Historic Bridge Walk & Artisan Espresso",
+    "location_name": "Old Town Riverbank & Medieval Center",
+    "search_query": "\ud83c\udf05 Sunrise Historic Bridge Walk & Artisan Espresso Old Town Riverbank & Medieval Center",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 1,
+    "slot_name": "midday",
+    "activity_name": "Secret Medieval Cloisters & Antique Book Arcades",
+    "location_name": "Old Town Riverbank & Medieval Center",
+    "search_query": "Secret Medieval Cloisters & Antique Book Arcades Old Town Riverbank & Medieval Center",
+    "current_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 1,
+    "slot_name": "evening",
+    "activity_name": "Castle Hill Panoramic Sunset & Candlelit Wine Cellar",
+    "location_name": "Old Town Riverbank & Medieval Center",
+    "search_query": "Castle Hill Panoramic Sunset & Candlelit Wine Cellar Old Town Riverbank & Medieval Center",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 2,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Ancient Stone Fortress Ramparts & City Spire Panorama",
+    "location_name": "Historic Upper Fortress & Terrace Gardens",
+    "search_query": "\ud83c\udf05 Ancient Stone Fortress Ramparts & City Spire Panorama Historic Upper Fortress & Terrace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 2,
+    "slot_name": "midday",
+    "activity_name": "Underground Roman Crypts & Medieval Guild Alleys",
+    "location_name": "Historic Upper Fortress & Terrace Gardens",
+    "search_query": "Underground Roman Crypts & Medieval Guild Alleys Historic Upper Fortress & Terrace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 2,
+    "slot_name": "evening",
+    "activity_name": "Riverside Terrace Stroll & Acoustic Accordion in the Square",
+    "location_name": "Historic Upper Fortress & Terrace Gardens",
+    "search_query": "Riverside Terrace Stroll & Acoustic Accordion in the Square Historic Upper Fortress & Terrace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 3,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Marble Statuary Galleries & Historic Library Hall",
+    "location_name": "Historic Artisan Quarter",
+    "search_query": "\ud83c\udf05 Marble Statuary Galleries & Historic Library Hall Historic Artisan Quarter",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 3,
+    "slot_name": "midday",
+    "activity_name": "Centuries-Old Leather & Paper Marbling Workshops",
+    "location_name": "Historic Artisan Quarter",
+    "search_query": "Centuries-Old Leather & Paper Marbling Workshops Historic Artisan Quarter",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 3,
+    "slot_name": "evening",
+    "activity_name": "Terracotta Rooftop Sunset & Candlelit Trattoria Feast",
+    "location_name": "Historic Artisan Quarter",
+    "search_query": "Terracotta Rooftop Sunset & Candlelit Trattoria Feast Historic Artisan Quarter",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 4,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Climb the 300-Step Cathedral Tower for Sunrise Vistas",
+    "location_name": "Gothic Cathedral Quarter",
+    "search_query": "\ud83c\udf05 Climb the 300-Step Cathedral Tower for Sunrise Vistas Gothic Cathedral Quarter",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 4,
+    "slot_name": "midday",
+    "activity_name": "Monastic Herbal Pharmacy & Alchemy Museum",
+    "location_name": "Gothic Cathedral Quarter",
+    "search_query": "Monastic Herbal Pharmacy & Alchemy Museum Gothic Cathedral Quarter",
+    "current_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 4,
+    "slot_name": "evening",
+    "activity_name": "Gaslit Cobblestone Ghost Walk & Historic Vaulted Cellar",
+    "location_name": "Gothic Cathedral Quarter",
+    "search_query": "Gaslit Cobblestone Ghost Walk & Historic Vaulted Cellar Gothic Cathedral Quarter",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 5,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Stroll the Intact Renaissance Fortified Walls & Moat",
+    "location_name": "Royal Citadel & Palace Gardens",
+    "search_query": "\ud83c\udf05 Stroll the Intact Renaissance Fortified Walls & Moat Royal Citadel & Palace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 5,
+    "slot_name": "midday",
+    "activity_name": "Royal Palace Glasshouses & Sculpted Topiary Maze",
+    "location_name": "Royal Citadel & Palace Gardens",
+    "search_query": "Royal Palace Glasshouses & Sculpted Topiary Maze Royal Citadel & Palace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 5,
+    "slot_name": "evening",
+    "activity_name": "Classical String Quartet in Historic Palace Chapel",
+    "location_name": "Royal Citadel & Palace Gardens",
+    "search_query": "Classical String Quartet in Historic Palace Chapel Royal Citadel & Palace Gardens",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 6,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Canal Walk & Historic Floating Flower Stalls",
+    "location_name": "Old Port & Canal Belt",
+    "search_query": "\ud83c\udf05 Sunrise Canal Walk & Historic Floating Flower Stalls Old Port & Canal Belt",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 6,
+    "slot_name": "midday",
+    "activity_name": "Wealthy Merchant Canal Mansion & Secret Garden",
+    "location_name": "Old Port & Canal Belt",
+    "search_query": "Wealthy Merchant Canal Mansion & Secret Garden Old Port & Canal Belt",
+    "current_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 6,
+    "slot_name": "evening",
+    "activity_name": "Historic Canal Boat Sunset Cruise & Candlelit Dining",
+    "location_name": "Old Port & Canal Belt",
+    "search_query": "Historic Canal Boat Sunset Cruise & Candlelit Dining Old Port & Canal Belt",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 7,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Cobblestone Stroll Along the 2,300-Year-Old Ancient Way",
+    "location_name": "Ancient Appian Way & Aqueduct Park",
+    "search_query": "\ud83c\udf05 Cobblestone Stroll Along the 2,300-Year-Old Ancient Way Ancient Appian Way & Aqueduct Park",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 7,
+    "slot_name": "midday",
+    "activity_name": "Underground Subterranean Catacombs & Tufa Galleries",
+    "location_name": "Ancient Appian Way & Aqueduct Park",
+    "search_query": "Underground Subterranean Catacombs & Tufa Galleries Ancient Appian Way & Aqueduct Park",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 7,
+    "slot_name": "evening",
+    "activity_name": "Rustic Country Osteria Dinner Beside Ancient Ruins",
+    "location_name": "Ancient Appian Way & Aqueduct Park",
+    "search_query": "Rustic Country Osteria Dinner Beside Ancient Ruins Ancient Appian Way & Aqueduct Park",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 8,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Panoramic Pilgrimage Footpath to Ridge Monastery",
+    "location_name": "Monastery Ridge & Vineyards",
+    "search_query": "\ud83c\udf05 Panoramic Pilgrimage Footpath to Ridge Monastery Monastery Ridge & Vineyards",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 8,
+    "slot_name": "midday",
+    "activity_name": "Monastic Wine Cellars & Barrel Tasting",
+    "location_name": "Monastery Ridge & Vineyards",
+    "search_query": "Monastic Wine Cellars & Barrel Tasting Monastery Ridge & Vineyards",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 8,
+    "slot_name": "evening",
+    "activity_name": "Panoramic Sunset Over Terraced Hills & Hearth Feast",
+    "location_name": "Monastery Ridge & Vineyards",
+    "search_query": "Panoramic Sunset Over Terraced Hills & Hearth Feast Monastery Ridge & Vineyards",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 9,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Sunrise Over Historic College Chapels & Quadrangle Lawns",
+    "location_name": "Ancient University Quarter",
+    "search_query": "\ud83c\udf05 Sunrise Over Historic College Chapels & Quadrangle Lawns Ancient University Quarter",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 9,
+    "slot_name": "midday",
+    "activity_name": "Ancient Manuscript Library & Rare Book Reading Room",
+    "location_name": "Ancient University Quarter",
+    "search_query": "Ancient Manuscript Library & Rare Book Reading Room Ancient University Quarter",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 9,
+    "slot_name": "evening",
+    "activity_name": "Historic College Pub Crawl & Literary Discussion",
+    "location_name": "Ancient University Quarter",
+    "search_query": "Historic College Pub Crawl & Literary Discussion Ancient University Quarter",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 10,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Final Sunrise Walk Along Highest Fortress Rampart",
+    "location_name": "Imperial Castle Overlook",
+    "search_query": "\ud83c\udf05 Final Sunrise Walk Along Highest Fortress Rampart Imperial Castle Overlook",
+    "current_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 10,
+    "slot_name": "midday",
+    "activity_name": "Grand Artisan Flea Market & Historic Collectibles",
+    "location_name": "Imperial Castle Overlook",
+    "search_query": "Grand Artisan Flea Market & Historic Collectibles Imperial Castle Overlook",
+    "current_url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "HISTORIC_ANCIENT_HERITAGE",
+    "day": 10,
+    "slot_name": "evening",
+    "activity_name": "Grand Historic Farewell Feast in a Vaulted Crypt",
+    "location_name": "Imperial Castle Overlook",
+    "search_query": "Grand Historic Farewell Feast in a Vaulted Crypt Imperial Castle Overlook",
+    "current_url": "https://images.unsplash.com/photo-1546768292-fb12f6c92568?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 1,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Rooftop Botanical Sanctuary & Specialty Third-Wave Coffee",
+    "location_name": "Downtown Core & Skyline Boulevard",
+    "search_query": "\ud83c\udf05 Rooftop Botanical Sanctuary & Specialty Third-Wave Coffee Downtown Core & Skyline Boulevard",
+    "current_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 1,
+    "slot_name": "midday",
+    "activity_name": "Indie Concept Boutiques & Vintage Streetwear Vaults",
+    "location_name": "Downtown Core & Skyline Boulevard",
+    "search_query": "Indie Concept Boutiques & Vintage Streetwear Vaults Downtown Core & Skyline Boulevard",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 1,
+    "slot_name": "evening",
+    "activity_name": "Sunset Waterfront Pier Walk & Hidden Speakeasy Lounge",
+    "location_name": "Downtown Core & Skyline Boulevard",
+    "search_query": "Sunset Waterfront Pier Walk & Hidden Speakeasy Lounge Downtown Core & Skyline Boulevard",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 2,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Elevated Rail Parkway Wildflower Walk",
+    "location_name": "Industrial Arts District & River Wharves",
+    "search_query": "\ud83c\udf05 Elevated Rail Parkway Wildflower Walk Industrial Arts District & River Wharves",
+    "current_url": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 2,
+    "slot_name": "midday",
+    "activity_name": "Monumental Contemporary Art Vaults & Experimental Installations",
+    "location_name": "Industrial Arts District & River Wharves",
+    "search_query": "Monumental Contemporary Art Vaults & Experimental Installations Industrial Arts District & River Wharves",
+    "current_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 2,
+    "slot_name": "evening",
+    "activity_name": "Neon Alleyway Street Food Safari & Secret Listening Bar",
+    "location_name": "Industrial Arts District & River Wharves",
+    "search_query": "Neon Alleyway Street Food Safari & Secret Listening Bar Industrial Arts District & River Wharves",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 3,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Urban Canal Greenway Bike & Coffee Crawl",
+    "location_name": "Canal Quarter & Financial Skydecks",
+    "search_query": "\ud83c\udf05 Urban Canal Greenway Bike & Coffee Crawl Canal Quarter & Financial Skydecks",
+    "current_url": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 3,
+    "slot_name": "midday",
+    "activity_name": "Design District Architect Studios & Experimental Concept Store",
+    "location_name": "Canal Quarter & Financial Skydecks",
+    "search_query": "Design District Architect Studios & Experimental Concept Store Canal Quarter & Financial Skydecks",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 3,
+    "slot_name": "evening",
+    "activity_name": "60th-Floor Glass Observation Deck & Sunset Skyline Cocktail",
+    "location_name": "Canal Quarter & Financial Skydecks",
+    "search_query": "60th-Floor Glass Observation Deck & Sunset Skyline Cocktail Canal Quarter & Financial Skydecks",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 4,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Retro Multi-Floor Rhythm Game & Gachapon Vault",
+    "location_name": "Electronic Quarter & Neon Alleyways",
+    "search_query": "\ud83c\udf05 Retro Multi-Floor Rhythm Game & Gachapon Vault Electronic Quarter & Neon Alleyways",
+    "current_url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 4,
+    "slot_name": "midday",
+    "activity_name": "Subterranean Vinyl Listening Bar & Manga Vaults",
+    "location_name": "Electronic Quarter & Neon Alleyways",
+    "search_query": "Subterranean Vinyl Listening Bar & Manga Vaults Electronic Quarter & Neon Alleyways",
+    "current_url": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 4,
+    "slot_name": "evening",
+    "activity_name": "Neon Street Food Night Market & Torched Skewers",
+    "location_name": "Electronic Quarter & Neon Alleyways",
+    "search_query": "Neon Street Food Night Market & Torched Skewers Electronic Quarter & Neon Alleyways",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 5,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Scenic Harbor Public Ferry Crossing at Golden Dawn",
+    "location_name": "Harbor Wharf & Harbor Islands",
+    "search_query": "\ud83c\udf05 Scenic Harbor Public Ferry Crossing at Golden Dawn Harbor Wharf & Harbor Islands",
+    "current_url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 5,
+    "slot_name": "midday",
+    "activity_name": "Historic Harbor Island Fort & Car-Free Bike Loop",
+    "location_name": "Harbor Wharf & Harbor Islands",
+    "search_query": "Historic Harbor Island Fort & Car-Free Bike Loop Harbor Wharf & Harbor Islands",
+    "current_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 5,
+    "slot_name": "evening",
+    "activity_name": "Waterfront Converted Warehouse Brewery & Sunset Pint",
+    "location_name": "Harbor Wharf & Harbor Islands",
+    "search_query": "Waterfront Converted Warehouse Brewery & Sunset Pint Harbor Wharf & Harbor Islands",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 6,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Independent Bookstore Vaults & Morning Poetry Stroll",
+    "location_name": "Boho Cultural Enclave",
+    "search_query": "\ud83c\udf05 Independent Bookstore Vaults & Morning Poetry Stroll Boho Cultural Enclave",
+    "current_url": "https://images.unsplash.com/photo-1584003564911-a7a321c748d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 6,
+    "slot_name": "midday",
+    "activity_name": "Vintage Flea Market & Repurposed Ceramic Workshops",
+    "location_name": "Boho Cultural Enclave",
+    "search_query": "Vintage Flea Market & Repurposed Ceramic Workshops Boho Cultural Enclave",
+    "current_url": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 6,
+    "slot_name": "evening",
+    "activity_name": "Intimate Underground Jazz Cellar & Natural Wine Bar",
+    "location_name": "Boho Cultural Enclave",
+    "search_query": "Intimate Underground Jazz Cellar & Natural Wine Bar Boho Cultural Enclave",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 7,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Geometric Glass Dome & Subtropical Indoor Conservatory",
+    "location_name": "Future Innovation & Museum Park",
+    "search_query": "\ud83c\udf05 Geometric Glass Dome & Subtropical Indoor Conservatory Future Innovation & Museum Park",
+    "current_url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 7,
+    "slot_name": "midday",
+    "activity_name": "Interactive Kinetic Light Art Museum & Digital Playground",
+    "location_name": "Future Innovation & Museum Park",
+    "search_query": "Interactive Kinetic Light Art Museum & Digital Playground Future Innovation & Museum Park",
+    "current_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 7,
+    "slot_name": "evening",
+    "activity_name": "Suspended Skyline Helix Bridge Sunset & Spectra Light Show",
+    "location_name": "Future Innovation & Museum Park",
+    "search_query": "Suspended Skyline Helix Bridge Sunset & Spectra Light Show Future Innovation & Museum Park",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 8,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Historic Pagoda Temple Morning Chants & Incense",
+    "location_name": "Heritage Silk & Ceramic District",
+    "search_query": "\ud83c\udf05 Historic Pagoda Temple Morning Chants & Incense Heritage Silk & Ceramic District",
+    "current_url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 8,
+    "slot_name": "midday",
+    "activity_name": "Medicinal Herb Apothecary & Traditional Shophouse Alleys",
+    "location_name": "Heritage Silk & Ceramic District",
+    "search_query": "Medicinal Herb Apothecary & Traditional Shophouse Alleys Heritage Silk & Ceramic District",
+    "current_url": "https://images.unsplash.com/photo-1565967511849-76a60a516170?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 8,
+    "slot_name": "evening",
+    "activity_name": "Red Lantern Courtyard Banquet & Dim Sum Feast",
+    "location_name": "Heritage Silk & Ceramic District",
+    "search_query": "Red Lantern Courtyard Banquet & Dim Sum Feast Heritage Silk & Ceramic District",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 9,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Treehouse Canopy Walkway & Urban Forest Ridge Trail",
+    "location_name": "Green Corridor & Ridge Reserve",
+    "search_query": "\ud83c\udf05 Treehouse Canopy Walkway & Urban Forest Ridge Trail Green Corridor & Ridge Reserve",
+    "current_url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 9,
+    "slot_name": "midday",
+    "activity_name": "Hilltop Conservatory & Butterfly Flight Pavilion",
+    "location_name": "Green Corridor & Ridge Reserve",
+    "search_query": "Hilltop Conservatory & Butterfly Flight Pavilion Green Corridor & Ridge Reserve",
+    "current_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 9,
+    "slot_name": "evening",
+    "activity_name": "Panoramic Hilltop Sunset Lookout & Skyline Dining",
+    "location_name": "Green Corridor & Ridge Reserve",
+    "search_query": "Panoramic Hilltop Sunset Lookout & Skyline Dining Green Corridor & Ridge Reserve",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 10,
+    "slot_name": "morning",
+    "activity_name": "\ud83c\udf05 Final 360\u00b0 Skyline Skydeck Sunrise & Glass Walkway",
+    "location_name": "Crown Skyline District",
+    "search_query": "\ud83c\udf05 Final 360\u00b0 Skyline Skydeck Sunrise & Glass Walkway Crown Skyline District",
+    "current_url": "https://images.unsplash.com/photo-1506351421178-63b52a2d2562?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 10,
+    "slot_name": "midday",
+    "activity_name": "Grand Central Artisanal Food Hall Safari",
+    "location_name": "Crown Skyline District",
+    "search_query": "Grand Central Artisanal Food Hall Safari Crown Skyline District",
+    "current_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "source": "procedural_days",
+    "city": "VIBRANT_METROPOLIS",
+    "day": 10,
+    "slot_name": "evening",
+    "activity_name": "Farewell Rooftop Skyline Toast & Midnight Starlight",
+    "location_name": "Crown Skyline District",
+    "search_query": "Farewell Rooftop Skyline Toast & Midnight Starlight Crown Skyline District",
+    "current_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=800&q=80"
+  }
+]

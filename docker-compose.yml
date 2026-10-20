@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: travel_planner_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: traveluser
+      POSTGRES_PASSWORD: travelpassword
+      POSTGRES_DB: travel_planner
+      PGDATA: /var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U traveluser -d travel_planner"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - travel_planner_network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: travel_planner_pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@travelplanner.local
+      PGADMIN_DEFAULT_PASSWORD: adminpassword
+      PGADMIN_CONFIG_SERVER_MODE: 'False'
+    ports:
+      - "5050:80"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - travel_planner_network
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  travel_planner_network:
+    driver: bridge
