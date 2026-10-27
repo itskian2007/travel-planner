@@ -2,8 +2,9 @@
 
 **AI-ML-and-GEN-AI-Track-Project**
 
-### 🌐 Live Deployment
+### 🌐 Live Deployment & Demonstration
 - **Live URL:** [https://travel-planner-iota-plum.vercel.app/](https://travel-planner-iota-plum.vercel.app/)
+- **Demo Video:** [https://youtu.be/X0X23raY2FI](https://youtu.be/X0X23raY2FI)
 - **GitHub Repository:** [https://github.com/itskian2007/travel-planner](https://github.com/itskian2007/travel-planner)
 
 ---
@@ -45,8 +46,9 @@
    - `Sample Project Documentation.pdf`
 
 8. **[8. Project Demonstration](./8.%20Project%20Demonstration/)**
-   - `Communication.pdf`
+   - 📺 **[Watch Demo Video on YouTube](https://youtu.be/X0X23raY2FI)**
    - `Demonstration of Proposed Features.pdf`
    - `Project Demo Planning.pdf`
    - `Scalability & Future Plan.pdf`
    - `Team Involvement in Demonstration.pdf`
+   - `Video Project.mp4` (Stored via Git LFS)
